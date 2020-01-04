@@ -19,4 +19,4 @@ Priest (Blue):
 - Otherwise, moves in its current facing direction with a fifteen percent chance of turning a random direction
 - Twenty percent chance of splashing holy water on Vampires within 2 squares of the facing direction.
 
-![Sample](sample_infestation.png)
+![Sample](/sample_simulation.png)
